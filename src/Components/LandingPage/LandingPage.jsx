@@ -77,7 +77,7 @@ const LandingPage = () => {
       <Container className="mt-5">
         <Row className='justify-content-center'>
             <Col xs ='auto'>
-            <h1 className='title'>SLICR</h1>
+            <h1 className='title'>Scissor</h1>
             </Col>
         </Row>
         <Row className='justify-content-center'>
@@ -115,7 +115,7 @@ const LandingPage = () => {
 
               </Form>
               <div className='content'>
-                <p>SLICR is a free tool to shorten URLs and generate short links</p>
+                <p>Scissor is a free tool to shorten URLs and generate short links</p>
                 <p>URL shortener allows you to create a shortened link, making it easy to share</p>
               </div>
               {shortUrl && (

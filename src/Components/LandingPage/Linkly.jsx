@@ -73,7 +73,7 @@ export default function Linkly() {
         <Container fluid >
             <Row className='align-items-center first-row justify-content-between px-4'>
                 <Col xs = 'auto mt-2 mt-md-1'>
-                    <h1 className='navbar-brand'>Slicr</h1>
+                    <h1 className='navbar-brand'>Scissor</h1>
                 </Col>
                 <Col xs = 'auto'>
                     <Row>
@@ -91,7 +91,7 @@ export default function Linkly() {
                 </Col>
             </Row>
             {/* <Navbar expand="lg" className="px-4">
-      <Navbar.Brand className="navbar-brand">Slicr</Navbar.Brand>
+      <Navbar.Brand className="navbar-brand">Scissor</Navbar.Brand>
       <Navbar.Toggle aria-controls="navbarCollapse" className="navbar-icon">
         <FaBars />
       </Navbar.Toggle>
@@ -116,7 +116,7 @@ export default function Linkly() {
             <Row className='justify-content-center mt-5 mt-lg-1'>
                 <Col sm ='7' md = '5'>
                     <div className='about'>
-                        <p>At the very least, Slicr is an efficient and easy-to-use URL shortening service that streamlines your online experience. Try now!</p>
+                        <p>At the very least, Scissor is an efficient and easy-to-use URL shortening service that streamlines your online experience. Try now!</p>
                     </div>
                 </Col>
             </Row>
